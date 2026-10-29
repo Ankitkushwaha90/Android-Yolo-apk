@@ -1,3 +1,5 @@
+
+
 # YOLO26n Android — Real-Time Object Detection
 
 An Android application that integrates the lightweight **YOLO26n object detection model** for live camera-based object detection. This project demonstrates how computer vision and deep learning can be deployed in an Android APK using Kotlin and an on-device machine learning runtime.
@@ -10,6 +12,21 @@ An Android application that integrates the lightweight **YOLO26n object detectio
 YOLO26n Android is a mobile computer vision project designed to run an object detection model directly on an Android device. The application uses a camera-based detection workflow to identify objects in live frames and display the detection results.
 
 The goal is to bring AI-powered object detection from desktop environments to mobile devices, making computer vision accessible through a standalone Android application.
+
+## YOLO26n Android Live Detection
+
+The following screenshot demonstrates the Android application's live object detection interface.
+
+![YOLO26n Android live object detection app screenshot](https://raw.githubusercontent.com/Ankitkushwaha90/Android-Yolo-apk/main/Screenshot%202026-10-29%20030140.png)
+
+*Figure: YOLO26n real-time object detection running in the Android application.*
+
+### Project Repository
+
+Explore the source code and Android APK on GitHub:
+
+[View Android YOLO26n Project](https://github.com/Ankitkushwaha90/Android-Yolo-apk)
+
 
 ## Features
 
