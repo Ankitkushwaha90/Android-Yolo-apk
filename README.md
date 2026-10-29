@@ -18,6 +18,7 @@ The goal is to bring AI-powered object detection from desktop environments to mo
 The following screenshot demonstrates the Android application's live object detection interface.
 
 ![YOLO26n Android live object detection app screenshot](https://raw.githubusercontent.com/Ankitkushwaha90/Android-Yolo-apk/main/Screenshot%202026-10-29%20030140.png)
+[![YOLO26n Android live object detection app screenshot][(https://raw.githubusercontent.com/Ankitkushwaha90/Android-Yolo-apk/main/Screenshot%202026-10-29%20030140.png)](https://github.com/Ankitkushwaha90/Android-Yolo-apk/blob/main/images.jpg)](https://github.com/Ankitkushwaha90/Android-Yolo-apk/blob/main/images.jpg)
 
 *Figure: YOLO26n real-time object detection running in the Android application.*
 
